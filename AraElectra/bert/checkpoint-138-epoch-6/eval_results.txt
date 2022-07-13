@@ -1,0 +1,4 @@
+correct = 16
+eval_loss = -3.2529296875
+incorrect = 46
+similar = 47
