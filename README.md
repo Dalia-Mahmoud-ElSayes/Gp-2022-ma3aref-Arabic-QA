@@ -17,7 +17,7 @@ It is an honor to mention that we worked on the "OSACT" Qur'an QA
 competition, and our results happen to be between the first and second place.
 
 
-you can find all details in the documentation and presentation here: https://github.com/Dalia-Mahmoud-ElSayes/Gp-2022-ma3aref-Arabic-QA/tree/master/Documentation
+you can find all details in documentation and presentation here: https://github.com/Dalia-Mahmoud-ElSayes/Gp-2022-ma3aref-Arabic-QA/tree/master/Documentation
 
 
 The rule based code (model and scrapping) can be found here: https://github.com/Dalia-Mahmoud-ElSayes/Gp-2022-ma3aref-Arabic-QA/tree/master/Rule%20based 
