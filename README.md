@@ -1,4 +1,5 @@
 # Gp-2022-ma3aref-Arabic-QA
+ [![HitCount](https://hits.dwyl.com/Dalia-Mahmoud-ElSayes/Gp-2022-ma3aref-Arabic-QA.svg?style=flat-square)](http://hits.dwyl.com/Dalia-Mahmoud-ElSayes/Gp-2022-ma3aref-Arabic-QA)
 
 
 "Ma'aref" an Arabic Question Answering on Quran and Fatwa, it 
